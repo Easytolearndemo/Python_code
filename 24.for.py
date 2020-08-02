@@ -1,0 +1,15 @@
+"""a=range(6)
+for i in a:
+  print(i)"""
+
+
+"""for i in range(6):
+  print(i)"""
+
+
+"""for i in range(1,6):
+  print(i)"""
+
+
+for i in range(6,0,-1):
+  print(i)
